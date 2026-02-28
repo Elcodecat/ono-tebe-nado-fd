@@ -168,6 +168,10 @@
   min-height: 596px;
 }
 
+.card-link {
+  text-decoration: none;
+}
+
 .card-link .card__title {
   display: block;
   height: 100%;
